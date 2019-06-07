@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.18.0",
-    "express": "^4.16.2",
-    "mongoose": "^5.0.10",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "axios": "^0.18.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.5.13",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
     "react-scripts": "1.1.1"
   },
   "proxy": "http://localhost:8080",
@@ -20,6 +20,6 @@
     "start": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
   },
   "devDependencies": {
-    "concurrently": "^3.5.1"
+    "concurrently": "^3.6.1"
   }
 }
