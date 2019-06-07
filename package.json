@@ -5,6 +5,7 @@
   "dependencies": {
     "axios": "^0.18.1",
     "express": "^4.17.1",
+    "js-yaml": "^3.13.1",
     "mongoose": "^5.5.13",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
